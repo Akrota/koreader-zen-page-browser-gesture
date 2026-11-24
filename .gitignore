@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.zip
+crash.log
+*.sdr/
+settings.json
+story_recall_keys.lua*
+.privat/
+*.key
